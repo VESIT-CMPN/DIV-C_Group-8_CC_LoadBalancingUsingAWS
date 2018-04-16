@@ -1,1 +1,1 @@
-# DIV-C_Group-8_CC_LoadBalancingUsingAWS
+This document provides step by step explanation to demonstrate load balancing in AWS. 
